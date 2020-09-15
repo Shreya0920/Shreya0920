@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shreya Gupta
 #### I am a Web Developeor
-![I am a Web Developeor](https://snappa.com/app/graphic/394ace15-747d-4474-9fc1-0bfca036ec6c)
+![I am a Web Developeor](Untitled Design.png)
 
 I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical University, Lucknow. I love designing websites and making projects all the time
 
