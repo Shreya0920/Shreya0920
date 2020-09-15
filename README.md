@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shreya Gupta
 #### I am a Web Developeor
-![I am a Web Developeor](Untitled Design.png)
+![I am a Web Developeor](https://github.com/Shreya0920/Shreya0920/blob/master/Untitled%20Design.png)
 
 I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical University, Lucknow. I love designing websites and making projects all the time
 
